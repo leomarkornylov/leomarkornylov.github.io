@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(65, 131, 106);
+    color:rgb(48, 32, 32);
+    font-family: "Nerko One", cursive;
+    padding: 0 150px;
+}
+
+header{
+    background-color: brown;
+    padding:40px ;
+    
+}
+p{
+    font-size: 20px;
+}
+
+.links{
+    color: #fff;
+    font-size: 35px;
+    text-decoration: none;
+    background-color:rgb(107, 0, 66);
+    padding: 15px 10px;
+    border-radius: 30px;
+}
+
+
+.titulo1{
+    color:aqua;
+    text-align:center;
+}
+
